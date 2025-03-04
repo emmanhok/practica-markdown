@@ -1,1 +1,34 @@
 # practica-markdown
+[Subitulo](#subtitulo)
+# Prueba de índice interactivo
+- Abc
+- Abc
+- Abc
+- Abc
+- Abc
+- Abc
+- Abc
+- Abc
+- Abc
+- Abc
+- Abc
+- Abc
+- Abc
+- Abc
+- Abc
+- Abc
+- Abc
+- Abc
+- Abc
+- Abc
+- Abc
+- Abc
+- Abc
+- Abc
+- Abc
+- Abc
+- Abc
+- Abc
+- Abc
+- Abc
+## Subtitulo
